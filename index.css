@@ -1,0 +1,13 @@
+div 
+{
+    background-color: floralwhite;
+    box-shadow: 2px 2px #eee;
+    padding: 6px;
+    font-size: 20px;
+}
+
+h1
+{
+    color: #333;
+    margin: 0;
+}
